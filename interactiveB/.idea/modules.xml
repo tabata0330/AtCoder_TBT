@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interactiveB.iml" filepath="$PROJECT_DIR$/.idea/modules/interactiveB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interactiveB_main.iml" filepath="$PROJECT_DIR$/.idea/modules/interactiveB_main.iml" group="interactiveB" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interactiveB_test.iml" filepath="$PROJECT_DIR$/.idea/modules/interactiveB_test.iml" group="interactiveB" />
+    </modules>
+  </component>
+</project>
